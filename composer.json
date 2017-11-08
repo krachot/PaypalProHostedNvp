@@ -30,9 +30,9 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-0": { "Payum\\Paypal\\ProHosted\\": "" }
+        "psr-0": { "Payum\\Paypal\\ProHosted\\Nvp": "" }
     },
-    "target-dir": "Payum/Paypal/ProHosted",
+    "target-dir": "Payum/Paypal/ProHosted/Nvp",
     "extra": {
         "branch-alias": {
             "dev-master": "1.4-dev"
